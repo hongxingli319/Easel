@@ -116,3 +116,10 @@ Easel 的 SKILL 集合在自研基础上，参考、改编或借鉴了大量优�
 ---
 
 *若有遗漏或标注有误，欢迎指正。所有原库版权归各自作者所有。*
+
+## 用户提供的论文技能包
+
+| 来源 | 用于 SKILL | 接入与许可记录 |
+|---|---|---|
+| 用户提供的 `real-lab-paper2video-v1.zip` | real-lab-paper2video-v1 | 本地接入原图动画、可编辑视频工程和 paper2assets 快照；来源哈希及适配见 [EASEL-META.md](../skills/builtin/real-lab-paper2video-v1/EASEL-META.md)。原包及内置 paper2assets 快照未附明确许可声明。 |
+| 用户提供的 `real-lab-paper-promotion.zip` | real-lab-paper-promotion | 本地接入论文宣传稿、原始 PDF 截图、案例与审核工具；来源哈希及适配见 [EASEL-META.md](../skills/builtin/real-lab-paper-promotion/EASEL-META.md)。原包未附明确许可声明。 |
